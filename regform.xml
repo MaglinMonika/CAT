@@ -1,0 +1,24 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"  ?>
+
+<CHRIST>
+<COMPUTER-SCIENCE>
+<STU-NAME>Janet</STU_NAME>
+<STU-UNIVERSITY>Christ University</STU-UNIVERSITY>
+<STU-PHONE>9367456756</STU-PHONE>
+<STU-EMAIL>janetstacy@mca.christuniversity.in</STU-EMAIL>
+</COMPUTER-SCIENCE>
+<COMPUTER-SCIENCE>
+<STU-NAME>Rakesh</STU_NAME>
+<STU-UNIVERSITY>Christ University</STU-UNIVERSITY>
+<STU-PHONE>9284562898</STU-PHONE>
+<STU-EMAIL>rakesh@mca.christuniversity.in</STU-EMAIL>
+</COMPUTER-SCIENCE>
+<COMPUTER-SCIENCE>
+<STU-NAME>Rahul</STU_NAME>
+<STU-UNIVERSITY>Christ University</STU-UNIVERSITY>
+<STU-PHONE>8937567287</STU-PHONE>
+<STU-EMAIL>rahul@mca.christuniversity.in</STU-EMAIL>
+</COMPUTER-SCIENCE>
+</CHRIST>
