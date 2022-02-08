@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<christ>
+   <computer_science computer_scienceid="a">
+      <stu-name>Rajesh pv</stu-name>
+      <stu-university>St josephs arts and science</stu-university>
+      <stu-email>rajeshpv@gmail.com</stu-email>
+      <stu-phone>+91 8618897671</stu-phone>
+   </computer_science>
+    <computer_science computer_scienceid="a">
+      <stu-name>Rakesh pv</stu-name>
+      <stu-university>christ university</stu-university>
+      <stu-email>rakeshpv@gmail.com</stu-email>
+      <stu-phone>+91 9916548048</stu-phone>
+   </computer_science>
+    <computer_science computer_scienceid="a">
+      <stu-name>gayatri</stu-name>
+      <stu-university>jain univerisy</stu-university>
+      <stu-email>gayatri@gmail.com</stu-email>
+      <stu-phone>+91 9591340593</stu-phone>
+   </computer_science>
+    <computer_science computer_scienceid="a">
+      <stu-name>maldon</stu-name>
+      <stu-university>Coorg univeristy</stu-university>
+      <stu-email>maldon@gmail.com</stu-email>
+      <stu-phone>+91 865712799</stu-phone>
+   </computer_science>
+    
+</christ>
